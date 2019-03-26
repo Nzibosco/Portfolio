@@ -43,6 +43,8 @@
   width: 100%;
   height: 100%;
   background: white;
+  display: inline-flex;
+  position: relative;
 }
 
 
