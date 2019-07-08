@@ -1,8 +1,8 @@
  /* The device with borders */
 .smartphone {
   position: relative;
-  width: 100%;
-  height: 650px;
+  width: 70%;
+  height: 700px;
   margin: auto;
   border: 16px black solid;
   border-top-width: 60px;
@@ -66,4 +66,13 @@
 
 .nav-item {
   padding-right: 20px;
+}
+#info {
+    height: 0;
+    padding: 0; /* remove any pre-existing padding, just in case */
+    padding-bottom: 65%; /* for a 4:3 aspect ratio */
+    background-image: url("../images/BoscoNew.jpg");
+    background-position: center center;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
