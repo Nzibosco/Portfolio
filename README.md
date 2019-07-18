@@ -32,6 +32,3 @@ Boostrap also helped to make the page more responsive with minimal CSS media que
 
 ### CSS: 
 I used CSS to provide all the styling for the page. 
-
-### Javascript & JQuery: 
-I used JQuery to make the page more dynamic.
